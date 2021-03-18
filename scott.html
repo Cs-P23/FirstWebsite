@@ -10,25 +10,33 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
         <link rel="stylesheet" href="Generic.css">
         <script src="Web1.js"></script>
     </head>
-    <body>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="whatscss.html">The old pop-up virus hack</li>
-            <li><a class="active" href="scott.html">Royalty Needs your help</a></li>
-            <li><a href="ssn.html">We need your SSN</a></li>
+
+    <body class="backnew">
+        <ul class='nav'>
+            <li class='nav-item'>
+                <a class="nav-link" href="index.html">Home</a></li>
+            <li class='nav-item'>
+                <a class="nav-link" href="whatscss.html">Pop-up</a></li>
+            <li class='nav-item'>
+                <a class="nav-link active" href="scott.html">The Office</a></li>
+            <li class='nav-item'>
+                <a class="nav-link" href="ssn.html">The "Bank"</a></li>
         </ul>
+
         <h1>You saw the alert! The Nigerian Prince needs your help!</h1>
         <script>
         window.alert("The deposed prince of Nigeria needs your help! \
 Enter your email below so he can inform you on how you can be of \
 assistance.")
         </script>
-
-        <input type="email">Enter your email here</input>
-        
+        <form>
+            Enter your email here: <input type="email"></input>
+            <input type=submit value="Submit">
+        </form>
         <script src="" async defer></script>
     </body>
 </html>

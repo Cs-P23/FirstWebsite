@@ -1,13 +1,14 @@
 
 
 
+
 .back {
     background:#051622;
 }
 .backnew {
     background:#DEB992;
-    padding:20px;
-    padding-block:#051622;
+    
+    
 }
 h1.home {
     padding:20px;
@@ -20,6 +21,7 @@ h1.home {
 p.home {
     color:#DEB992;
     font-family: garamond;
+    padding: 20px;
 }
 h.new {
     padding:15px;
@@ -27,12 +29,14 @@ h.new {
     text-align:right;
     font-family:"helvetica";
     font-size:large;
+    font-weight:100;
 
 }
 p.new {
     color:#1BA098;
     font-family:monospace;
     font-size:30px;
+    padding: 20px;
 }
 a {
     text-decoration: none;
@@ -40,8 +44,8 @@ a {
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     overflow: hidden;
     background-color: #333;
   }
@@ -54,7 +58,7 @@ ul {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 16px;
     text-decoration: none;
   }
   
