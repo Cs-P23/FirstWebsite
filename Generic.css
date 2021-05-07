@@ -17,13 +17,14 @@ p {
     color:#E7F2B6;
     font-family: garamond;
     padding: 20px;
-    font: size 20px;
+    font: size 25px;
 }
-h1.option {
-    padding:15px;
+p.option {
+    padding:10px;
     color:#FFAEAA;
     text-align:center;
     font-family:"perpetua";
+    font-size:15px;
     font-weight:700;
 
 }
