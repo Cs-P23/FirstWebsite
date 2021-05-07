@@ -3,29 +3,23 @@
 
 
 .back {
-    background:#051622;
-}
-.backnew {
-    background:#DEB992;
-    
-    
+    background:#ABAD3F;
 }
 h1.home {
     padding:20px;
-    color:#1BA098;
-    background:#051622;
+    color:#ABAD3F;
     text-align: center; 
     font-family: "perpetua";
 
 }
 p.home {
-    color:#DEB992;
+    color:#E7F2B6;
     font-family: garamond;
     padding: 20px;
 }
 h.new {
     padding:15px;
-    color:#051622;
+    color:#FFAEAA;
     text-align:right;
     font-family:"helvetica";
     font-size:large;
@@ -33,7 +27,7 @@ h.new {
 
 }
 p.new {
-    color:#1BA098;
+    color:#E25B6A;
     font-family:monospace;
     font-size:30px;
     padding: 20px;
@@ -63,9 +57,9 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: #111;
+    background-color: #651B0E;
   }
   
   .active {
-    background-color: #4CAF50;
+    background-color: rgb(153, 36, 21);
   }
