@@ -5,19 +5,20 @@
 body {
     background:#ABAD3F;
 }
-h1.home {
+h1 {
     padding:20px;
     color:#E25B6A;
     text-align: center; 
     font-family: "perpetua";
+    font-weight: 700;
 
 }
-p.home {
+p {
     color:#E7F2B6;
     font-family: garamond;
     padding: 20px;
 }
-h.new {
+h1.option {
     padding:15px;
     color:#FFAEAA;
     text-align:right;
