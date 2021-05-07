@@ -17,20 +17,21 @@ p {
     color:#E7F2B6;
     font-family: garamond;
     padding: 20px;
+    font-size:larger
 }
 h1.option {
     padding:15px;
     color:#FFAEAA;
-    text-align:right;
+    text-align:center;
     font-family:"helvetica";
     font-size:large;
-    font-weight:100;
+    font-weight:700;
 
 }
 p.new {
     color:#E25B6A;
     font-family:monospace;
-    font-size:30px;
+    font-size:15px;
     padding: 20px;
 }
 a {
