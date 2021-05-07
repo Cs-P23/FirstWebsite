@@ -19,15 +19,15 @@ h1 {
 .yel {
   color:#E7F2B6;
   font-family:monospace;
-    font-size:15px;
-    padding: 20px;
+  font-size:15px;
+  padding: 20px;
   
 }
 p {
     color:#E7F2B6;
     font-family: garamond;
     padding: 20px;
-    font: size 25px;
+    font: size 45px;
 }
 p.option {
     padding:10px;
