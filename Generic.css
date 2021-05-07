@@ -14,7 +14,7 @@ h1 {
 
 }
 .weirdyellow {
-  background-color: #E7F2B6;
+  background-color: #FFAEAA;
 }
 p {
     color:#E7F2B6;
@@ -22,7 +22,7 @@ p {
     padding: 20px;
     font: size 25px;
 }
-body.option {
+p.option {
     padding:10px;
     color:#FFAEAA;
     text-align:center;
