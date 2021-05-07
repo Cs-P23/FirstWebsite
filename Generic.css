@@ -13,13 +13,16 @@ h1 {
     font-weight: 700;
 
 }
+.weirdyellow {
+  background-color: #E7F2B6;
+}
 p {
     color:#E7F2B6;
     font-family: garamond;
     padding: 20px;
     font: size 25px;
 }
-p.option {
+body.option {
     padding:10px;
     color:#FFAEAA;
     text-align:center;
